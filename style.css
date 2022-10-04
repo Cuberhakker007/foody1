@@ -1,0 +1,16 @@
+body{
+    font-style: italic;
+    font-family: 20px;
+    color: red;
+    cursor: pointer;
+}
+
+img{
+    width: 300px;
+    height:auto;
+}
+
+.card{
+    width:auto;
+    text-align: center;
+}
